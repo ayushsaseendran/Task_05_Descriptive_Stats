@@ -1,0 +1,11 @@
+questions = [
+    "How many games did Syracuse Women’s Lacrosse play in 2025?",
+    "What is their win/loss record?",
+    "Which game had the highest attendance?",
+    "What was their average goal score?",
+    "Which game was the closest by goal margin?"
+]
+
+prompt = 
+    You are analyzing Syracuse Women's Lacrosse 2025 season data.
+    Here is a sample of the dataset:
